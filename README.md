@@ -1,0 +1,2 @@
+# Chat-Room-Application
+Developed an android mobile application that helps users communicate with each other in a chat room. Users should register and login to join the chat room. All their credentials will be stored in the Firebase real time database, thus allowing them to send messages and images. Users will also be able to comment on all the messages and delete messages sent by them. All the images data is stored in the Firebase Storage. 
